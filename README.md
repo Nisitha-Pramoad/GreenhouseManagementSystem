@@ -14,5 +14,5 @@ Irrigation Management: Uses soil moisture data to automate watering schedules, e
 
 
 <p align="center">
-  <img src="https://github.com/Nisitha-Munasinghe/PlayChat/assets/125719867/64167ef4-87a8-486b-a42f-e5cf1bffb41e" alt="Screenshot" />
+  <img src="https://github.com/Nisitha-Pramoad/GreenhouseManagementSystem/blob/master/src/main/resources/repo_assets/User.png" alt="Screenshot" />
 </p>
