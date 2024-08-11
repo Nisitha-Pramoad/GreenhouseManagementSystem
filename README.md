@@ -11,3 +11,8 @@ Automated Control Systems:
 
 Climate Control: Automatically adjusts heating, cooling, on real-time sensor data to maintain optimal growing conditions.
 Irrigation Management: Uses soil moisture data to automate watering schedules, ensuring plants receive the right amount of water.
+
+
+<p align="center">
+  <img src="https://github.com/Nisitha-Munasinghe/PlayChat/assets/125719867/64167ef4-87a8-486b-a42f-e5cf1bffb41e" alt="Screenshot" />
+</p>
